@@ -1,0 +1,17 @@
+{
+  "name": "simple-http-daemon",
+  "version": "1.0.0",
+  "description": "receive an http request and returns a pdf",
+  "main": "lib/app.js",
+  "scripts": {
+    "start": "node lib/app.js"
+  },
+  "author": "Joaquin Santana",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "daemon": "^1.1.0",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "puppeteer": "^1.6.1"
+  }
+}
