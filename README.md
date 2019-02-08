@@ -1,5 +1,5 @@
 # PDFGenerator
-this daemon can be run with forever to create a rest service that creates a PDF receiving an html as input using puppeteer.
+this daemon creates a web service that creates a PDF from an url / html in input using puppeteer, it creates a file on the server, can be modified to receive binaries / base64.
 
 # Start
 
