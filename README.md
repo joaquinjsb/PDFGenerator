@@ -8,6 +8,4 @@ to run this script just launch on the root folder.
 ```
 npm start
 ```
-to run the script as a daemon in background, use forever.
-
-[ForeverJS](https://github.com/foreverjs/forever)
+to run the script as a daemon in background, use [ForeverJS](https://github.com/foreverjs/forever).
